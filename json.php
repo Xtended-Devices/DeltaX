@@ -1,0 +1,18 @@
+{
+".\/santoni":
+    [
+    ],
+".\/mido":
+    [
+    ],
+".\/dumpling":
+    [
+    ],
+".\/cheeseburger":
+    [
+    ],
+".\/oneplus3":
+    [
+        {"filename":".\/oneplus3\/Xtended-ROM*.zip","timestamp":*}
+    ]
+}
